@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+huggingface_hub
+PyPDF2
+python-dotenv
+chromadb
+beautifulsoup4
+transformers
