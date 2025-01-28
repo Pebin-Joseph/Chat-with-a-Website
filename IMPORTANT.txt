@@ -1,0 +1,3 @@
+#The model i used is very low end , so it gives answer within a minute "I guesss".., but iam attaching a video file to view the demo of this model in which i trimmed the extra timee it took to process the single conmmand.
+take care.. bye
+i can't pay to a good llms which will operate in cloud and large open source models coz, it will require la good GPUs  and CPUs. 
